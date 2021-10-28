@@ -1,0 +1,8 @@
+Nama =str("Rizky Alifian Wardana")
+Umur =str("20")
+TanggalLahir =str("Bekasi")
+TempatLahir =str("Bekasi")
+Alamat =str("Perum.Puri Mutiara Indah Jl.Cakalang 2")
+NomorHandphone =str("08971451537")
+Hobi =str("Bermain Gitar")
+Citacita =str("Direktur")
